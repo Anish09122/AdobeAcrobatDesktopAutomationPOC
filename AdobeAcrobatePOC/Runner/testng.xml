@@ -1,0 +1,14 @@
+
+<suite name="Adobe Acrobat Suite">
+
+    <test name="Desktop Automation Tests">
+
+        <classes>
+
+            <class name="com.tests.AdobeAcrobatTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
